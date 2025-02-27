@@ -1,0 +1,13 @@
+# ninja log v6
+7	422	7500924073238609	CMakeFiles/Test_catch.dir/main.cpp.obj	3b68fefa4f7b8cfd
+11	515	7534447146883389	CMakeFiles/Laba3.dir/src/ComplexNum.cpp.obj	3128d418e21e9447
+11	422	7544174899547893	CMakeFiles/Laba3.dir/src/ComplexStr/ComplexStr.cpp.obj	ac2479c9cdc410f6
+34	900	7545997933956657	build.ninja	69d39fb6a84962b0
+6	11827	7534434246616981	CMakeFiles/Test_catch.dir/test-unit/test.cpp.obj	d03554b571660b47
+11827	51570	7534434364827647	Test_catch.exe	7c01b5e7454593a5
+9	406	7534433185682968	CMakeFiles/Test_catch.dir/src/ComplexNum.cpp.obj	c956a2d8504a4323
+20	462	7500911883794707	CMakeFiles/Main.dir/main.cpp.obj	2369b6c1d716c961
+6	383	7544175438997350	CMakeFiles/Laba3.dir/main.cpp.obj	3984fe5d883e4c08
+384	463	7544175442770272	Laba3.exe	abd183a65ef1a697
+12	601	7544138879012188	CMakeFiles/Laba3.dir/src/ComplexNum/ComplexNum.cpp.obj	9aa424a64756ba0a
+15	461	7544167696472172	CMakeFiles/Laba3.dir/src/ComplexLife/ComplexLife.cpp.obj	e6c40462a076ea13

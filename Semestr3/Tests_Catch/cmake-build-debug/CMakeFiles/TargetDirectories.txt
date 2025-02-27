@@ -1,0 +1,4 @@
+C:/Users/Admin/NSTU/proga_3sem/Tests_Catch/cmake-build-debug/CMakeFiles/Laba3.dir
+C:/Users/Admin/NSTU/proga_3sem/Tests_Catch/cmake-build-debug/CMakeFiles/Test_catch.dir
+C:/Users/Admin/NSTU/proga_3sem/Tests_Catch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/NSTU/proga_3sem/Tests_Catch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

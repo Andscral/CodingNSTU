@@ -1,0 +1,3 @@
+C:/Users/Admin/NSTU/proga_3sem/Tests_Catch/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir
+C:/Users/Admin/NSTU/proga_3sem/Tests_Catch/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/Admin/NSTU/proga_3sem/Tests_Catch/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/rebuild_cache.dir

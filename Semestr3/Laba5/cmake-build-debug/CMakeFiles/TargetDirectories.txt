@@ -1,0 +1,4 @@
+C:/Users/Admin/NSTU/proga_3sem/Laba5/cmake-build-debug/CMakeFiles/Laba5.dir
+C:/Users/Admin/NSTU/proga_3sem/Laba5/cmake-build-debug/CMakeFiles/Tests.dir
+C:/Users/Admin/NSTU/proga_3sem/Laba5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/NSTU/proga_3sem/Laba5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

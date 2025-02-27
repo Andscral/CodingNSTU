@@ -1,0 +1,3 @@
+C:/Users/Admin/НЭТИ/прога 3 семак/Nikitayayayaya/cmake-build-debug/CMakeFiles/Nikitayayayaya.dir
+C:/Users/Admin/НЭТИ/прога 3 семак/Nikitayayayaya/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/НЭТИ/прога 3 семак/Nikitayayayaya/cmake-build-debug/CMakeFiles/rebuild_cache.dir

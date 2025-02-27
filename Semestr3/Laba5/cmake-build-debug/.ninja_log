@@ -1,0 +1,22 @@
+# ninja log v6
+28	479	7558531954008928	CMakeFiles/Tests.dir/src/ComplexNum/ComplexNum.cpp.obj	620b6ea7e8c971ad
+42	566	7558579571614730	CMakeFiles/Laba5.dir/src/List/LinkedList.cpp.obj	fa781b3b953aa3e9
+38	571	7558579571564728	CMakeFiles/Laba5.dir/main.cpp.obj	5c32e923adc59384
+40	702	7546014192977522	CMakeFiles/Laba5.dir/src/ComplexStr/ComplexStr.cpp.obj	934de4ca6f26ed78
+30	412	7558580283893311	build.ninja	ac399d1d068ced84
+23	14881	7546035229359801	CMakeFiles/Test_catch.dir/test-unit/test.cpp.obj	8f58f0176402f7c5
+45	775	7546014193027496	CMakeFiles/Laba5.dir/src/ComplexNum/ComplexNum.cpp.obj	85e29ed5ebf5592b
+32	480	7558531954046198	CMakeFiles/Tests.dir/src/ComplexStr/ComplexStr.cpp.obj	72df7af149ae1ea7
+35	727	7546014192927465	CMakeFiles/Laba5.dir/src/ComplexLife/ComplexLife.cpp.obj	ec7a7d9d32a478b9
+571	669	7558579576894740	Laba5.exe	5b180269fd34d811
+64	1016	7546035229767665	CMakeFiles/Test_catch.dir/src/ComplexNum/ComplexNum.cpp.obj	c849333904d75809
+34	1104	7546035229433001	CMakeFiles/Test_catch.dir/src/ComplexLife/ComplexLife.cpp.obj	1ad05cab18263857
+29	1110	7546035229413026	CMakeFiles/Test_catch.dir/src/List/LinkedList.cpp.obj	25df42284a8b0955
+40	1156	7546035229530336	CMakeFiles/Test_catch.dir/src/ComplexStr/ComplexStr.cpp.obj	4e940f2be35ac20c
+14883	59560	7546035377951000	Test_catch.exe	5ed9ea5dfa3346bb
+47	21359	7558556088250644	CMakeFiles/Tests.dir/test-unit/test.cpp.obj	962d1ca432992bde
+32	500	7558560407405775	CMakeFiles/Tests.dir/src/List/LinkedList.cpp.obj	167afba8b13b7407
+500	47165	7558560412083429	Tests.exe	9ce0a7fd632bfbec
+32	607	7558580322813327	CMakeFiles/Laba5.dir/main.cpp.obj	5c32e923adc59384
+38	644	7558580322869162	CMakeFiles/Laba5.dir/src/List/List.cpp.obj	de9a17422c46680b
+645	748	7558580328930788	Laba5.exe	fa597ba89c6c7e48
