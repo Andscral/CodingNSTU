@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Admin\НЭТИ\прога 2 семак\8laba_proga\8laba_proga\main.cpp(7,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\НЭТИ\прога 2 семак\8laba_proga\8laba_proga\main.cpp(8,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  8laba_proga.vcxproj -> C:\Users\Admin\НЭТИ\прога 2 семак\8laba_proga\x64\Debug\8laba_proga.exe

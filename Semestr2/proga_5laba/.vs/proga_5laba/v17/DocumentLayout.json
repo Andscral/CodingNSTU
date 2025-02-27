@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\\u041D\u042D\u0422\u0418\\\u043F\u0440\u043E\u0433\u0430 2 \u0441\u0435\u043C\u0430\u043A\\proga_5laba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0C8B01-A64B-43CF-B036-C2D9921E0044}|proga_5laba\\proga_5laba.vcxproj|C:\\Users\\Admin\\\u041D\u042D\u0422\u0418\\\u043F\u0440\u043E\u0433\u0430 2 \u0441\u0435\u043C\u0430\u043A\\proga_5laba\\proga_5laba\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB0C8B01-A64B-43CF-B036-C2D9921E0044}|proga_5laba\\proga_5laba.vcxproj|solutionrelative:proga_5laba\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\\u041D\u042D\u0422\u0418\\\u043F\u0440\u043E\u0433\u0430 2 \u0441\u0435\u043C\u0430\u043A\\proga_5laba\\proga_5laba\\main.cpp",
+              "RelativeDocumentMoniker": "proga_5laba\\main.cpp",
+              "ToolTip": "C:\\Users\\Admin\\\u041D\u042D\u0422\u0418\\\u043F\u0440\u043E\u0433\u0430 2 \u0441\u0435\u043C\u0430\u043A\\proga_5laba\\proga_5laba\\main.cpp",
+              "RelativeToolTip": "proga_5laba\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T13:44:55.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

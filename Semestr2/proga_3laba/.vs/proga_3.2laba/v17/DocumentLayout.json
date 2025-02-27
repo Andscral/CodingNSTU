@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\\u041D\u042D\u0422\u0418\\\u043F\u0440\u043E\u0433\u0430 2 \u0441\u0435\u043C\u0430\u043A\\proga_3laba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB59B5C8-6DCC-4A86-82C3-4A8E606D562B}|proga_3.2laba\\proga_3.2laba.vcxproj|C:\\Users\\Admin\\\u041D\u042D\u0422\u0418\\\u043F\u0440\u043E\u0433\u0430 2 \u0441\u0435\u043C\u0430\u043A\\proga_3laba\\proga_3.2laba\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB59B5C8-6DCC-4A86-82C3-4A8E606D562B}|proga_3.2laba\\proga_3.2laba.vcxproj|solutionrelative:proga_3.2laba\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ViewState": "AQIAAHoCAAAAAAAAAAAQwIUCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T03:24:32.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\\u041D\u042D\u0422\u0418\\\u043F\u0440\u043E\u0433\u0430 2 \u0441\u0435\u043C\u0430\u043A\\proga_3laba\\proga_3.2laba\\main.cpp",
+              "RelativeDocumentMoniker": "proga_3.2laba\\main.cpp",
+              "ToolTip": "C:\\Users\\Admin\\\u041D\u042D\u0422\u0418\\\u043F\u0440\u043E\u0433\u0430 2 \u0441\u0435\u043C\u0430\u043A\\proga_3laba\\proga_3.2laba\\main.cpp*",
+              "RelativeToolTip": "proga_3.2laba\\main.cpp*",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAEEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T06:15:35.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

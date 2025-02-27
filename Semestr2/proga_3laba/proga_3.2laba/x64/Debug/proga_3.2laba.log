@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Admin\НЭТИ\прога 2 семак\proga_3laba\proga_3.2laba\main.cpp(54,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  proga_3.2laba.vcxproj -> C:\Users\Admin\НЭТИ\прога 2 семак\proga_3laba\x64\Debug\proga_3laba.exe
