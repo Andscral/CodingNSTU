@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\Admin\НЭТИ\инфа\infa4\infa4\main.c(95,5): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Admin\НЭТИ\инфа\infa4\infa4\main.c(100,19): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Admin\НЭТИ\инфа\infa4\infa4\main.c(124,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "int *"
+C:\Users\Admin\НЭТИ\инфа\infa4\infa4\main.c(115,9): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "int *"
+C:\Users\Admin\НЭТИ\инфа\infa4\infa4\main.c(116,9): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "int *"
+C:\Users\Admin\НЭТИ\инфа\infa4\infa4\main.c(122,9): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "int *"
+C:\Users\Admin\НЭТИ\инфа\infa4\infa4\main.c(123,9): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "int *"
+C:\Users\Admin\НЭТИ\инфа\infa4\infa4\main.c(129,9): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "int *"
+C:\Users\Admin\НЭТИ\инфа\infa4\infa4\main.c(130,9): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "int *"
+  infa4.vcxproj -> C:\Users\Admin\НЭТИ\инфа\infa4\Debug\infa4.exe

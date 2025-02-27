@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Admin\НЭТИ\инфа\sessiya1\sessiya1\main.c(30,10): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Admin\НЭТИ\инфа\sessiya1\sessiya1\main.c(32,30): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Admin\НЭТИ\инфа\sessiya1\sessiya1\main.c(32,30): warning C4024: cnt_prost: различные типы для формального и фактического параметров 2
+  sessiya1.vcxproj -> C:\Users\Admin\НЭТИ\инфа\sessiya1\x64\Debug\sessiya1.exe

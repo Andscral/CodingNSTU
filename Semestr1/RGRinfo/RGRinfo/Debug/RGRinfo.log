@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Admin\НЭТИ\инфа\RGRinfo\RGRinfo\main.c(148,21): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "void (__cdecl *)(void)"
+  RGRinfo.vcxproj -> C:\Users\Admin\НЭТИ\инфа\RGRinfo\Debug\RGRinfo.exe

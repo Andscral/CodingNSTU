@@ -1,0 +1,3 @@
+﻿  2lab.c
+C:\Users\User\Desktop\НЭТИ\инфа\infa2\infa2\2lab.c(6,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  infa2.vcxproj -> C:\Users\User\Desktop\НЭТИ\инфа\infa2\x64\Debug\infa2.exe

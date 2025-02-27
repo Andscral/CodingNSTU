@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Admin\НЭТИ\инфа\sessiya1\sessiya1\main.c(162,2): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+  sessiya1.vcxproj -> C:\Users\Admin\НЭТИ\инфа\sessiya1\Debug\sessiya1.exe

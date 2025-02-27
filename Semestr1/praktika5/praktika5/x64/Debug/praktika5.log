@@ -1,0 +1,8 @@
+﻿  proverka.c
+C:\Users\User\Desktop\НЭТИ\инфа\praktika5\praktika5\proverka.c(274,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\User\Desktop\НЭТИ\инфа\praktika5\praktika5\proverka.c(483,4): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\User\Desktop\НЭТИ\инфа\praktika5\praktika5\proverka.c(368,27): warning C4101: s: неиспользованная локальная переменная
+C:\Users\User\Desktop\НЭТИ\инфа\praktika5\praktika5\proverka.c(408,19): warning C4101: s: неиспользованная локальная переменная
+C:\Users\User\Desktop\НЭТИ\инфа\praktika5\praktika5\proverka.c(466,30): warning C4101: v: неиспользованная локальная переменная
+C:\Users\User\Desktop\НЭТИ\инфа\praktika5\praktika5\proverka.c(466,11): warning C4101: s: неиспользованная локальная переменная
+  praktika5.vcxproj -> C:\Users\User\Desktop\НЭТИ\инфа\praktika5\x64\Debug\praktika5.exe

@@ -1,0 +1,3 @@
+﻿  3Lab.c
+C:\Users\Admin\НЭТИ\инфа\infa3\infa3\3Lab.c(21,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  infa3.vcxproj -> C:\Users\Admin\НЭТИ\инфа\infa3\x64\Debug\infa3.exe
